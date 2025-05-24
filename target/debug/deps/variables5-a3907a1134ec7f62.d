@@ -1,0 +1,5 @@
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/variables5-a3907a1134ec7f62: exercises/01_variables/variables5.rs
+
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/variables5-a3907a1134ec7f62.d: exercises/01_variables/variables5.rs
+
+exercises/01_variables/variables5.rs:

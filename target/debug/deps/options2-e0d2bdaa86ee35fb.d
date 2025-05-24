@@ -1,0 +1,9 @@
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/liboptions2-e0d2bdaa86ee35fb.rmeta: exercises/12_options/options2.rs Cargo.toml
+
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/options2-e0d2bdaa86ee35fb.d: exercises/12_options/options2.rs Cargo.toml
+
+exercises/12_options/options2.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=--no-deps__CLIPPY_HACKERY__
+# env-dep:CLIPPY_CONF_DIR

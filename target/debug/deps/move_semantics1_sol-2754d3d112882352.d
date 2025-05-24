@@ -1,0 +1,9 @@
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/libmove_semantics1_sol-2754d3d112882352.rmeta: solutions/06_move_semantics/move_semantics1.rs Cargo.toml
+
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/move_semantics1_sol-2754d3d112882352.d: solutions/06_move_semantics/move_semantics1.rs Cargo.toml
+
+solutions/06_move_semantics/move_semantics1.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=--no-deps__CLIPPY_HACKERY__
+# env-dep:CLIPPY_CONF_DIR

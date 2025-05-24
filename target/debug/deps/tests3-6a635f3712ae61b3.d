@@ -1,0 +1,5 @@
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/tests3-6a635f3712ae61b3: exercises/17_tests/tests3.rs
+
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/tests3-6a635f3712ae61b3.d: exercises/17_tests/tests3.rs
+
+exercises/17_tests/tests3.rs:

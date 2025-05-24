@@ -1,0 +1,5 @@
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/structs3-cc8b8a0af8a520a0: exercises/07_structs/structs3.rs
+
+/home/havingfun3o0p/Documents/Programming/Rust/rustlings/target/debug/deps/structs3-cc8b8a0af8a520a0.d: exercises/07_structs/structs3.rs
+
+exercises/07_structs/structs3.rs:
